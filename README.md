@@ -1,2 +1,2 @@
 # Angel
-Devops
+Development operations
